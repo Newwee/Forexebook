@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+pdf_extracted
+*.log
+all_pages_summary.txt
+cleaned_catalog.json
